@@ -1,12 +1,12 @@
 {
   "response": [
      {
-      "datetime":1573034798, 
-      "filename": "lineage-17.0-20191106-UNOFFICIAL-beta1-ef63.zip", 
-      "id": "9550a6db38aadaf42f5c15f8ca04bf3d", 
+      "datetime":1574093592, 
+      "filename": "lineage-17.0-20191118-UNOFFICIAL-beta2-ef63.zip", 
+      "id": "285ea8c4f956e52b0b1c8e2a070ac7dc", 
       "romtype": "UNOFFICIAL",
-      "size":424662187, 
-      "url": "https://master.dl.sourceforge.net/project/chautruongthinh/lineage-17.0/lineage-17.0-20191106-UNOFFICIAL-beta1-ef63.zip", 
+      "size":425434263, 
+      "url": "https://master.dl.sourceforge.net/project/chautruongthinh/lineage-17.0/lineage-17.0-20191118-UNOFFICIAL-beta2-ef63.zip", 
       "version": "17.0"
     }
   ]
